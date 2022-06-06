@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\tommy\source\repos\hangman game\hangman game\Source.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tommy\source\repos\hangman game\hangman game\Source.cpp(189,27): warning C4018: '<': signed/unsigned mismatch
+  hangman game.vcxproj -> C:\Users\tommy\source\repos\hangman game\Debug\hangman game.exe
